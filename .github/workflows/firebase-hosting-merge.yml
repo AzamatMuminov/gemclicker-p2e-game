@@ -16,3 +16,4 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_GEMCLICKER_P2E_GAME }}
           projectId: gemclicker-p2e-game
+          channelId: live
