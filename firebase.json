@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "gemclicker-p2e-game",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
