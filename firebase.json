@@ -9,7 +9,7 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/GemClickerP2EGame.html"
+        "destination": "/index.html"
       }
     ]
   }
