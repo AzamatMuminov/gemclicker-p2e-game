@@ -1,7 +1,6 @@
 {
   "hosting": [
     {
-      "target": "live",
       "public": "gemclicker-p2e-game",
       "ignore": [
         "firebase.json",
