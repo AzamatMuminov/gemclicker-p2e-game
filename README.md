@@ -4,8 +4,7 @@ Welcome to Gem Clicker! This is a simple yet engaging Play-to-Earn (P2E) clicker
 
 Users can "connect a wallet," earn in-game tokens by clicking, and then claim unique NFT rewards.
 
-![image](https://user-images.githubusercontent.com/12423376/160447321-3c7d611b-3f04-4861-8938-04f7a2ab5363.png)
-*(Feel free to replace this with a screenshot of your running application!)*
+![image](https://github.com/AzamatMuminov/gemclicker-p2e-game/blob/main/gemclicker-p2e-game_screenshot.jpeg)
 
 ## ✨ Features
 
